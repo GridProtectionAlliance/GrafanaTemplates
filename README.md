@@ -9,7 +9,7 @@
 ---
 
 ## `ExceedsAt` Threshold Dashboard
-> Download Template: <a id="raw-url" href="https://raw.githubusercontent.com/GridProtectionAlliance/GrafanaTemplates/refs/heads/main/templates/ExceedsAtThreshold.json" download>ExceedsAtThreshold.json</a>
+> Download Template: [ExceedsAtThreshold.json](templates/ExceedsAtThreshold.json/download)
 
 This dashboard serves as a real-time threshold monitoring tool, designed to track and visualize when a specific metric exceeds or falls below a predefined threshold. It highlights threshold breaches on a dynamic time-series graph, marking exceedance points and return-to-normal points for clarity. A detailed log provides timestamps and durations of these breaches, enabling users to pinpoint critical events. Additionally, exceedance durations are categorized visually, helping to identify trends or patterns over time. This functionality is particularly useful as a template for monitoring systems where deviations from expected values are significant, such as quality control, anomaly detection, or performance monitoring. 
 
