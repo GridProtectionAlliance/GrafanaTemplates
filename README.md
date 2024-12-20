@@ -6,7 +6,7 @@
 * [openHistorian Grafana Data Source](https://grafana.com/grafana/plugins/gridprotectionalliance-openhistorian-datasource/)
 * [GSF Grafana Functions](https://github.com/GridProtectionAlliance/gsf/blob/master/Source/Documentation/GrafanaFunctions.md)
 
-### _Have a dahsboard you would like to share? Create a [pull request](https://github.com/GridProtectionAlliance/GrafanaTemplates/pulls) to get it added!_
+### _Have a dashboard you would like to share? Create a [pull request](https://github.com/GridProtectionAlliance/GrafanaTemplates/pulls) to get it added!_
 
 ---
 
