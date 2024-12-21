@@ -10,6 +10,12 @@
 
 ---
 
+Note: When clicking links to download JSON files, the GitHub file preview page will be shown with the JSON text. To the right above the file, next the word "Raw", there is a download button. Click this button to download the JSON to your local system. For example:
+
+![Click Download Button](img/ClickDownloadButton.png)
+
+---
+
 ## `ExceedsAt` Threshold Dashboard
 > Download Template: [ExceedsAtThreshold.json](templates/ExceedsAtThreshold.json) &nbsp;&nbsp;>&nbsp;&nbsp; Author: J. Ritchie Carroll / Grid Protection Alliance
 
@@ -31,4 +37,5 @@ The "State timeline" panel includes both start and end reports from the `Exceeds
 ```bash
 Label('͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏͏ ͏', ExceedsAt(${threshold}, false, true, true, ${query}));
 ```
+
 ---
