@@ -10,7 +10,7 @@
 
 ---
 
-Note: When clicking links to download JSON files, the GitHub file preview page will be shown with the JSON text. To the right above the file, next the word "Raw", there is a download button. Click this button to download the JSON to your local system. For example:
+Note: When clicking links to download JSON files, the GitHub file preview page will be shown with the JSON text. To the right above the file, to the right of the button labeled "Raw" and left of the button with an image of a pencil, there is a download button. Click this button to download the JSON to your local system. For example:
 
 ![Click Download Button](img/ClickDownloadButton.png)
 
